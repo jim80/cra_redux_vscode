@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "@types/react": "^0.14.39",
-    "react-scripts": "0.6.1",
+    "react-scripts": "0.6.1"
   },
   "dependencies": {
     "react": "^15.3.2",
